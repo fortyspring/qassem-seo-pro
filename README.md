@@ -1,5 +1,25 @@
-# Qassem SEO Pro  Official product showcase maintained by **Mohamad Kassem**.  ## Overview  Product showcase for Qassem SEO Pro WordPress publishing automation.  ## Technology  WordPress â€¢ PHP â€¢ REST API â€¢ Automation  ## Key Features  - Remote-site processing
-- Publishing automation
-- SEO workflow integration
-- Image handling
-- Multi-site compatibility  ## Status  Production / Active Development  ## Official Website  https://theverificat.com/  ## Source Code  **Proprietary software. Source code is not publicly distributed.**  This repository contains product information and documentation only. It does not contain commercial source code, APK files, ZIP packages, credentials, private APIs, or deployment secrets.  Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
+# Qassem SEO Pro
+
+![The Verificat production systems](assets/theverificat-systems.png)
+
+WordPress publishing, media and SEO automation product by **Mohamad Kassem**.
+
+## Production Context
+
+The system is part of the publishing and automation stack presented by The Verificat Agency:
+
+https://theverificat.com/
+
+## Product Focus
+
+- WordPress publishing automation
+- Editorial and SEO workflow integration
+- Media and featured-image handling
+- Remote-site processing
+- Multi-site compatibility
+
+## Source Code
+
+Proprietary. Commercial source and installable packages are stored privately and are not distributed from this showcase repository.
+
+Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
